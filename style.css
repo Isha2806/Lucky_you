@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+  background-color:#09015F;
+  color:#EEEEEE;
+  font-family: 'Permanent Marker', cursive;
+}
+h1{
+  text-align: center;
+  color:cornsilk;
+}
+
+#output{
+  width:90%;
+  background-color: transparent;
+  font-family: 'Permanent Marker', cursive;
+  font-size: x-large;
+  color: cornsilk;
+  
+  text-align: center;
+}
+.container{
+  max-width: 500px;
+  margin: auto;
+  padding: 16px;
+}
+.Birthdate{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border-radius: 30px solid #00C1D4;
+  box-sizing: border-box;
+}
+.luckyNum{
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border-radius: 30px solid #00C1D4;
+  box-sizing: border-box;
+
+}
+.btn{
+  background-color: cornsilk;
+  color: #09015F;
+  padding: 14px 20px;
+  margin: 5% 25%;
+  border-radius: 1rem;
+  width: 50%;
+  border-width: medium;
+  
+}
+button:hover {
+  opacity: 0.3;
+}
